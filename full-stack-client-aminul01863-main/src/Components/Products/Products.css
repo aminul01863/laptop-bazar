@@ -1,0 +1,8 @@
+.cart{
+    float: left;
+    box-shadow: 2px 2px 10px gray;
+    border-radius: 10px;
+}
+.main-cart:hover{
+    background-color: aquamarine;
+}
